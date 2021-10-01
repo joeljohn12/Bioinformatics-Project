@@ -1,0 +1,2 @@
+"query","significant","p_value","term_size","query_size","intersection_size","precision","recall","term_id","source","term_name","effective_domain_size","source_order","parents"
+"query_1",TRUE,0.00240348738222426,80,3328,80,0.0240384615384615,1,"CORUM:306","CORUM","Ribosome, cytoplasmic",3627,183,
