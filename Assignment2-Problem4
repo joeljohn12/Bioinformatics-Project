@@ -1,0 +1,5 @@
+install.packages("ComplexHeatmap")
+library(ComplexHeatmap)
+lite <- deseq_df[1:15,]
+mat1<-data.matrix(lite)
+Heatmap(mat2)
