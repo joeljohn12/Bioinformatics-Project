@@ -1,5 +1,0 @@
-library(DESeq2)
-library(ggplot2)
-library(dplyr)
-countData<-read.csv("34.csv")
-chisq.test(countData$GSM1324450, countData$GSM1324452)
